@@ -1,0 +1,7 @@
+C:\Users\Егор\Documents\Visual Studio 2015\Projects\Univer\TTM\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Егор\Documents\Visual Studio 2015\Projects\Univer\TTM\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\Егор\Documents\Visual Studio 2015\Projects\Univer\TTM\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\Егор\Documents\Visual Studio 2015\Projects\Univer\TTM\RSA\RSA\bin\Debug\BigInteger.dll
+C:\Users\Егор\Documents\Visual Studio 2015\Projects\Univer\TTM\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\Егор\Documents\Visual Studio 2015\Projects\Univer\TTM\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Егор\Documents\Visual Studio 2015\Projects\Univer\TTM\RSA\RSA\obj\Debug\RSA.pdb
